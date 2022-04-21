@@ -1,4 +1,5 @@
 # Suspect-Tracking-System
+Go to this path and downlaod all the required library C:\Users\Lenovo\AppData\Local\Programs\Python\Python36
 
 This repository contains code for facial recognition using openCV and python with a tkinter gui interface. If you want to test the code then run train.py file
 
